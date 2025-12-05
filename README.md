@@ -35,5 +35,8 @@ python main.py
 支持两种数据格式：
 - 全站仪格式：包含X、Y、Z坐标数据
 - 水准仪格式：包含Z方向沉降数据
+- 可以导出学术论文风格图片
+<img width="2952" height="1752" alt="学术图表_累计沉降_2025-12-05" src="https://github.com/user-attachments/assets/95089be2-ed63-4181-8e71-d3f299edbc21" />
+
 
 详细格式请参考项目中的示例文件。
