@@ -27,6 +27,8 @@ python main.py
 2. 系统自动分析并生成可视化图表
 3. 查看关键变形指标
 4. 下载专业监测报告
+<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/cc5fbcf1-27b0-423c-8e7b-b420368a6775" />
+
 
 ## 数据格式
 
