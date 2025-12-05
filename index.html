@@ -232,6 +232,7 @@
             }
 
             const { createApp, ref, nextTick } = Vue;
+            const api = axios.create({ baseURL: getApiBaseUrl() });
 
             createApp({
                 setup() {
