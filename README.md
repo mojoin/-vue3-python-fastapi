@@ -20,6 +20,9 @@ python main.py
 
 ### 在线访问
 部署后可通过提供的URL直接访问使用。
+https://vue3-python-fastapi.onrender.com/
+> 注：该网站部署于render免费web服务，网页15分钟内未有人访问将进入休眠，休眠状态再次访问会将重启服务器界面展示如下。此情况只需耐心重启即可，中国区域白天约1分钟内重启成攻，晚上约3-4分钟
+<img width="1912" height="948" alt="61539845595189312dc207deebaba426" src="https://github.com/user-attachments/assets/fb79e90a-7bd8-406d-8f51-96c551f2210f" />
 
 ## 使用说明
 
