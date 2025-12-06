@@ -17,7 +17,7 @@
 pip install -r requirements.txt
 python main.py
 ```
-
+> 本地部署安装好对应虚拟环境后，启动python，网页端口为http://localhost:8001
 ### 在线访问
 部署后可通过提供的URL直接访问使用。
 https://vue3-python-fastapi.onrender.com/
